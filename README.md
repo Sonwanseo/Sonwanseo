@@ -18,3 +18,7 @@ I was born in 2003, and I'm interested in React, TS, JS.
 ![GitHub](https://img.shields.io/badge/GitHub-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-181717?style=&logo=GitHub)
 ![Notion](https://img.shields.io/badge/Notion-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-000000?style=&logo=Notion)
 ![Slack](https://img.shields.io/badge/Slack-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-4A154B?style=&logo=Slack)
+
+## 📕 Informations
+- Email: sonwanseo@gmail.com
+- facebook: https://www.facebook.com/profile.php?id=100026441154177
