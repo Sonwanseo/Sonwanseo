@@ -1,5 +1,5 @@
 # Thank you for visiting my Github! 😝
-I'm Daedeok Software Meister High School student!
+I'm Daedeok Software Meister High School student!  
 I was born in 2003, and I'm interested in React, TS, JS.
 
 ## 🚥 My Stat
