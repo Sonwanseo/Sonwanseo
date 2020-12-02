@@ -8,3 +8,6 @@ I was born in 2003, and I'm interested in React, TS, JS.
 
 ## 🛠 My Skills
 ![JS](https://img.shields.io/badge/JavaScript-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-B7472A?style=&logo=JavaScript)
+![React](https://img.shields.io/badge/React-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-B7472A?style=&logo=React)
+![HTML](https://img.shields.io/badge/HTML-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-B7472A?style=&logo=HTML)
+![CSS](https://img.shields.io/badge/CSS-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-B7472A?style=&logo=CSS)
