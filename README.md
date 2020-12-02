@@ -13,4 +13,8 @@ I was born in 2003, and I'm interested in React, TS, JS.
 
 ![React](https://img.shields.io/badge/React-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-61DAFB?style=&logo=React)
 ![TS](https://img.shields.io/badge/TypeScript-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-007ACC?style=&logo=TypeScript)
-![VSCode](https://img.shields.io/badge/VSCode-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-007ACC?style=&logo=VSCode)
+![Git](https://img.shields.io/badge/Git-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-F05032?style=&logo=Git)
+
+![GitHub](https://img.shields.io/badge/GitHub-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-181717?style=&logo=GitHub)
+![Notion](https://img.shields.io/badge/Notion-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-000000?style=&logo=Notion)
+![Slack](https://img.shields.io/badge/Slack-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-4A154B?style=&logo=Slack)
