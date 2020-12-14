@@ -21,4 +21,4 @@ I was born in 2003, and I'm interested in React, TS, JS.
 
 ## 📕 Informations
 - Email: sonwanseo@gmail.com
-- facebook: https://www.facebook.com/profile.php?id=100026441154177
+- Phone: 010-3209-7511
