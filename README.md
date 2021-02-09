@@ -14,9 +14,9 @@ I'm currently studying Vue.js, Nest.js and JS Data Structures
 
 ![React](https://img.shields.io/badge/React-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-61DAFB?style=&logo=React)
 ![TS](https://img.shields.io/badge/TypeScript-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-007ACC?style=&logo=TypeScript)
-![Git](https://img.shields.io/badge/Git-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-F05032?style=&logo=Git)
+![NestJS](https://img.shields.io/badge/Nest-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-181717?style=&logo=Nest)
 
-![GitHub](https://img.shields.io/badge/GitHub-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-181717?style=&logo=GitHub)
+![Vue](https://img.shields.io/badge/Vue-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-F05032?style=&logo=Vue)
 ![Notion](https://img.shields.io/badge/Notion-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-000000?style=&logo=Notion)
 ![Slack](https://img.shields.io/badge/Slack-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-4A154B?style=&logo=Slack)
 
