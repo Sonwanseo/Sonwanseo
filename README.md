@@ -8,17 +8,17 @@ I'm currently studying Vue.js, Nest.js and JS Data Structures
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonwanseo&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠 My Skills
-![JS](https://img.shields.io/badge/JavaScript-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-F7DF1E?style=&logo=JavaScript)
-![HTML5](https://img.shields.io/badge/HTML5-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-E34F26?style=&logo=HTML5)
-![CSS3](https://img.shields.io/badge/CSS3-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-1572B6?style=&logo=CSS3)
+![JS](https://img.shields.io/badge/JavaScript-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-F7DF1E?style=&logo=JavaScript)
+![HTML5](https://img.shields.io/badge/HTML5-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-E34F26?style=&logo=HTML5)
+![CSS3](https://img.shields.io/badge/CSS3-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-1572B6?style=&logo=CSS3)
 
-![React](https://img.shields.io/badge/React-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-61DAFB?style=&logo=React)
-![TS](https://img.shields.io/badge/TypeScript-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-007ACC?style=&logo=TypeScript)
-![NestJS](https://img.shields.io/badge/NestJS-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-181717?style=&logo=NestJS)
+![React](https://img.shields.io/badge/React-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-61DAFB?style=&logo=React)
+![TS](https://img.shields.io/badge/TypeScript-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-007ACC?style=&logo=TypeScript)
+![NestJS](https://img.shields.io/badge/NestJS-%E2%98%85%E2%98%86%E2%98%86%E2%98%85%E2%98%86-181717?style=&logo=NestJS)
 
-![Vue.js](https://img.shields.io/badge/Vue.js-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-F05032?style=&logo=Vue.js)
+![Vue.js](https://img.shields.io/badge/Vue.js-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-F05032?style=&logo=Vue.js)
+![Git](https://img.shields.io/badge/Git-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-4A154B?style=&logo=Git)
 ![Notion](https://img.shields.io/badge/Notion-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-000000?style=&logo=Notion)
-![Slack](https://img.shields.io/badge/Slack-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-4A154B?style=&logo=Slack)
 
 ## 📕 Informations
 - Email: sonwanseo@gmail.com
