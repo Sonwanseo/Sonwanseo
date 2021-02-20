@@ -23,3 +23,4 @@ I'm currently studying Vue.js, Nest.js and JS Data Structures
 ## 📕 Informations
 - Email: sonwanseo@gmail.com
 - Phone: 010-3209-7511
+- Velog: [my velog](https://velog.io/@sonwanseo/)
