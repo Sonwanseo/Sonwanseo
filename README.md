@@ -14,7 +14,7 @@ I'm currently studying Vue.js, Nest.js and JS Data Structures.
 ![CSS3](https://img.shields.io/badge/CSS3-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-1572B6?style=&logo=CSS3)
 
 ![React](https://img.shields.io/badge/React-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-61DAFB?style=&logo=React)
-![TS](https://img.shields.io/badge/TypeScript-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-007ACC?style=&logo=TypeScript)
+![TS](https://img.shields.io/badge/TypeScript-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-007ACC?style=&logo=TypeScript)
 ![NestJS](https://img.shields.io/badge/NestJS-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-181717?style=&logo=NestJS)
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-F05032?style=&logo=Vue.js)
