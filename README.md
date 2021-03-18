@@ -2,7 +2,7 @@
 I'm Daedeok Software Meister High School student!  
 
 I'm interested in React, TS, JS.  
-I'm currently studying Vue.js, CSS Animation and JS Data Structures.
+I'm currently studying Java, CSS Animation and Spring Boot.
 
 ## 🚥 My Stats
 [![Wanseo's github stats](https://github-readme-stats.vercel.app/api?username=Sonwanseo&bg_color=30,ed6159,6cadef&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
