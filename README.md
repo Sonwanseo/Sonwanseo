@@ -14,7 +14,7 @@ I'm currently studying Java, CSS Animation and Spring Boot.
 ![Java](https://img.shields.io/badge/Java-007396?style=&logo=)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=&logo=)
 ![Git](https://img.shields.io/badge/Git-F05032?style=&logo=)
-![Notion](https://img.shields.io/badge/Notion-F05032?style=&logo=)
+![Notion](https://img.shields.io/badge/Notion-000000?style=&logo=)
 
 ## 📕 Informations
 - Email: sonwanseo@gmail.com
