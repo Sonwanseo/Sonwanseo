@@ -15,14 +15,8 @@ I'm currently studying Java, CSS Animation and Spring Boot.
 ![Java](https://img.shields.io/badge/Java-007396?style=&logo=Java)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=&logo=Spring)
 
-![React](https://img.shields.io/badge/React-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-61DAFB?style=&logo=React)
-![NestJS](https://img.shields.io/badge/NestJS-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-181717?style=&logo=NestJS)
-![Java](https://img.shields.io/badge/Java-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-181717?style=&logo=Java)
-![Spring](https://img.shields.io/badge/Spring-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-181717?style=&logo=Spring)
-
-![Vue.js](https://img.shields.io/badge/Vue.js-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-F05032?style=&logo=Vue.js)
-![Git](https://img.shields.io/badge/Git-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-4A154B?style=&logo=Git)
-![Notion](https://img.shields.io/badge/Notion-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-000000?style=&logo=Notion)
+![Git](https://img.shields.io/badge/Git-F05032?style=&logo=Git)
+![Notion](https://img.shields.io/badge/Notion-F05032?style=&logo=Notion)
 
 ## 📕 Informations
 - Email: sonwanseo@gmail.com
