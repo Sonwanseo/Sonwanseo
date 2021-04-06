@@ -5,7 +5,7 @@ I'm interested in React, TS, JS.
 I'm currently studying Java, CSS Animation and Spring Boot.
 
 ## 🛠 My Skills
-![JS](https://img.shields.io/badge/JavaScript-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-F7DF1E?style=&logo=JavaScript)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=&logo=JavaScript)
 ![TS](https://img.shields.io/badge/TypeScript-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-007ACC?style=&logo=TypeScript)
 ![HTML5](https://img.shields.io/badge/HTML5-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-E34F26?style=&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/CSS3-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-1572B6?style=&logo=CSS3)
