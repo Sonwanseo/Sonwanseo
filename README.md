@@ -8,7 +8,7 @@ I'm currently studying Java, CSS Animation and Spring Boot.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=&logo=JavaScript)
 ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=&logo=TypeScript)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=&logo=HTML5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=&logo=CSS3)
+![CSS3](https://img.shields.io/badge/CSS3-FFFFFF?style=&logo=CSS3)
 
 ![React](https://img.shields.io/badge/React-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-61DAFB?style=&logo=React)
 ![NestJS](https://img.shields.io/badge/NestJS-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-181717?style=&logo=NestJS)
