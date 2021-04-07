@@ -27,6 +27,7 @@ I'm currently studying Java, CSS Animation and Spring Boot.
 ![Notion](https://img.shields.io/badge/Notion-000000?style=&logo=)
 
 
+
 ## 📞 Informations
 - Email: sonwanseo@gmail.com
 - Phone: 010-3209-7511
