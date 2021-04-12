@@ -17,7 +17,6 @@ I'm currently studying Java, CSS Animation and Spring Boot.
 📚 Libraries & Frameworks
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=&logo=)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=&logo=)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=&logo=)
 
 
