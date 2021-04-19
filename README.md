@@ -18,6 +18,8 @@ I'm currently studying Java, CSS Animation and Spring Boot.
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=&logo=)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=&logo=)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=&logo=)
+![NextJS](https://img.shields.io/badge/NextJS-000000?style=&logo=)
 
 
 ⚙️ Tools
