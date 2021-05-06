@@ -2,7 +2,7 @@
 I'm Daedeok Software Meister High School student!  
 
 I'm interested in React, TS, JS.  
-I'm currently studying Java, CSS Animation and Spring Boot.
+I'm currently studying Basic of JavaScript.
 
 ## 🛠 My Skills
 🔠 Programming Languages
