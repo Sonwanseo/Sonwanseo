@@ -17,7 +17,7 @@ I'm currently studying Basic of JavaScript.
 📚 Libraries & Frameworks
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=&logo=)
-![ReactNative](https://img.shields.io/badge/ReactNative-61DAFB?style=&logo=)
+![ReactNative](https://img.shields.io/badge/ReactNative-376BE3?style=&logo=)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=&logo=)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=&logo=)
 ![NextJS](https://img.shields.io/badge/NextJS-000000?style=&logo=)
